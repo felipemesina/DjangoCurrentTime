@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+p{
+  color: white;
+  font-family: arial;
+  font-size: 18px;
+  margin: 100px;
+}
+
+.datetime{
+  color: white;
+  font-family: arial;
+  font-size: 36px;
+  border: 1px solid grey;
+  display: inline-block;
+  padding: 20px;
+}
